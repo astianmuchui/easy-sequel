@@ -17,6 +17,7 @@ class fetch extends sql_server{
    public function test(){
       $this->fetch_all_assoc($this->dbname,$this->table);
       //The associative array returned has a variable name of data
+      //Test if an arr was returned
       var_dump($this->data);
 
 
