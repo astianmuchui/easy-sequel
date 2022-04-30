@@ -1,9 +1,10 @@
-#Introduction .
+Introduction .
 
 This is an object-oriented method of manipulating sql data with php, no libraries. 
 One only has to declare the table and database from which to fetch the data from in a class that extends the parent class and then run the functions. 
 
-#Usage 
+Usage 
+
 Require the core file which is src/main.php
 
 Create an inheritance class
