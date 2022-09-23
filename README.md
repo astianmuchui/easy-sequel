@@ -11,5 +11,5 @@ Create an inheritance class
 
 Declare the following variables: $this->table and $this->dbname
 
-Create a public function and use the functions in the API.
+Create a public function and use the functions
 
